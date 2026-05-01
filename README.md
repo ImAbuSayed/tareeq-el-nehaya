@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي والروح تميل
+> نار الغرام في دمي تسيل
+> شوقي إليك كأنه دليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
