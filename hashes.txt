@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tareeq El Nehaya
+
+This log tracks the cryptographic history and versioning for the song **Tareeq El Nehaya** (tareeq-el-nehaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:05:10.012368 | `v1` | `834a40cdd972dbb0a51379cca87d095cff895308ed640f39aea762266c22a14e` | `3b5287b453308e1be0414797f2ecdeda83aedcdd1ec98eea94f1860d0bcf154f` | `2026-05-09_tareeq-el-nehaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
